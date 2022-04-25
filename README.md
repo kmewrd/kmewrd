@@ -1,6 +1,6 @@
 Hello, I'm Kim! 👋🏼
 
-I'm a creative software engineer with a background in marketing and non-profits.
+I'm a creative software engineer with a background in non-profit marketing.
 
 ### Contact:
 <a href="mailto:kmewrd@gmail.com">
