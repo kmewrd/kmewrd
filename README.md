@@ -42,8 +42,8 @@ I'm a creative software engineer with a background in non-profit marketing. My i
 
 ### GitHub Stats:
 <a href="https://github.com/kmewrd/github-readme-stats">
-  <img align="top" src="https://github-readme-stats.vercel.app/api?username=kmewrd&theme=tokyonight&hide_rank=true&hide=stars&count_private&show_icons=true" />
+  <img align="top" src="https://github-readme-stats.vercel.app/api?username=kmewrd&theme=nightowl&hide_rank=true&hide=stars&count_private&show_icons=true" />
 </a>
-<a href="https://github.com/tonycarpenter21/github-readme-stats">
-  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kmewrd&theme=tokyonight&layout=compact" />
+<a href="https://github.com/kmewrd/github-readme-stats">
+  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kmewrd&theme=nightowl&layout=compact" />
 </a>
