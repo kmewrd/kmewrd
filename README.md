@@ -30,15 +30,6 @@ I'm a front end developer with experience in the nonprofit and mental health spa
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 
-### Marketing Skills:
-![Facebook Ads](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)
-![Instagram Ads](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
-![Google Ads](https://img.shields.io/badge/Google%20Ads-E37400?style=for-the-badge&logo=google&=<>&message=Google%20Ads&color=darkblue)
-![Google Analytics](https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white)
-![Adobe Fonts](https://img.shields.io/badge/Adobe%20Fonts-000B1D.svg?style=for-the-badge&logo=Adobe%20Fonts&logoColor=white) 
-![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
-
 ### GitHub Stats:
 <a href="https://github.com/kmewrd/github-readme-stats">
   <img align="top" src="https://github-readme-stats.vercel.app/api?username=kmewrd&theme=merko&hide_rank=true&hide=stars&count_private&show_icons=true" />
