@@ -34,10 +34,6 @@ I'm a front end developer with experience in the nonprofit and mental health spa
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
 
-### GitHub Stats:
-<a href="https://github.com/kmewrd/github-readme-stats">
-  <img align="top" src="https://github-readme-stats.vercel.app/api?username=kmewrd&theme=gruvbox&hide_rank=true&hide=stars&count_private&show_icons=true" />
-</a>
 <a href="https://github.com/kmewrd/github-readme-stats">
   <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kmewrd&theme=gruvbox&layout=compact" />
 </a>
